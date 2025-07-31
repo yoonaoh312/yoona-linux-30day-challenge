@@ -7,12 +7,11 @@
 Learn how to navigate the filesystem and manage files/directories using basic commands: ls, cd, mkdir, and cp.
 
 ## 🗂️ Key Directories and Their Purpose
-
 Command	Description
-ls	Lists files and directories in the current location.
-cd	Changes the current directory.
-mkdir	Creates a new directory.
-cp	Copies files or directories.
+- ls	Lists files and directories in the current location.
+- cd	Changes the current directory.
+- mkdir	Creates a new directory.
+- cp	Copies files or directories.
 
 ## 🔍 What I Did Today
 - Used ls to view contents of directories:
