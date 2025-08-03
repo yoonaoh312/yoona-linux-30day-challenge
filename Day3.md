@@ -8,9 +8,9 @@ Understand and manage file permissions using chmod, chown, and ls -l. Learn symb
 
 ## 🗂️ Key Commands and Their Purpose
 Command	Description
-- ls -l | Lists files with detailed permissions, ownership, - and timestamps.
-- chmod | Changes file permissions (read/write/execute) using symbolic (rwx) or numeric (octal) format.
-- chown | Changes file or directory ownership (user and/or group).
+- ls -l Lists files with detailed permissions, ownership, - and timestamps.
+- chmod Changes file permissions (read/write/execute) using symbolic (rwx) or numeric (octal) format.
+- chown Changes file or directory ownership (user and/or group).
 
 ## 🔍 What I Did Today
 - Explored permission details with ls -l:

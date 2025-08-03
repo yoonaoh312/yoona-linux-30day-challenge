@@ -30,7 +30,7 @@ sudo apt install tree
 tree
 
 ## 🧠 Notes
-- rm -rf is powerful — and dangerous. Be cautious!
+- rm -rf is powerful and dangerous. Be cautious!
 - tree helps you understand directory depth quickly.
 - Remember: use Tab to autocomplete file/folder names.
 - Always double-check the path before using rm or mv.
