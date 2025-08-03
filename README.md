@@ -9,7 +9,7 @@ A 30-day plan to learn and practice essential Linux skills. Each day covers a pr
 | 2   | Basic File Commands    | `ls`, `cd`, `mkdir`, `cp`, `mv`, `rm`, `tree`  |
 | 3   | File Permissions      | `chmod`, `chown`, `ls -l`, octal format         |
 | 4   | System Info Script    | Make a script to show memory, disk, CPU          |
-| 5   | Disk Usage Script     | `du`, `df`, `sort` — build the project we did!  |
+| 5   | Disk Usage Script     | `du`, `df`, `sort` build the project I did!  |
 | 6   | Package Management    | `apt`, `yum`, `dnf`, `apt-cache`, `dpkg -l`     |
 | 7   | Bash Scripting Basics | Variables, if/else, loops                         |
 | 8   | Cron Jobs             | Automate a task using `crontab`                   |
@@ -41,7 +41,7 @@ Each day, I will add scripts, notes, and practical tasks for the topic listed ab
 Feel free to follow along or use these as a learning guide!
 
 ## About Me
-I’m Yoona, working to build my Linux and cloud skills through hands-on challenges.  
+Hello world! I’m Yoona, working to build my Linux and cloud skills through hands-on challenges.  
 Follow my journey and check out my projects on GitHub!
 
 
